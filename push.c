@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("ofeeeeeeeeee\n zidan");
+    printf("cristofer richil\n zidan");
 
     return 0;
 }
